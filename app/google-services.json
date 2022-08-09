@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613608293362",
+    "project_id": "lite-8302a",
+    "storage_bucket": "lite-8302a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613608293362:android:6b78dd4487ee7cbc99216b",
+        "android_client_info": {
+          "package_name": "com.preloved.litenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613608293362-a26erim4dkus1thb3jp5ib4ljft60d97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.preloved.litenow",
+            "certificate_hash": "b6f057fd86a5b8d3c61138ceb584965e534d5e90"
+          }
+        },
+        {
+          "client_id": "613608293362-ehvo8l61k1nu5b7odosi0j85feea8les.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xgbcZxGEiQBNltx58M_eg580x_Bq6aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613608293362-ehvo8l61k1nu5b7odosi0j85feea8les.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
